@@ -13,7 +13,7 @@
     "test": "node dist/robo/unit-tests.js"
   },
   "dependencies": {
-    "@types/ldapjs": "^1.0.3",
+    "@types/ldapjs": "^1.0.11",
     "@types/node": "^10.3.2",
     "@types/nodemailer": "^4.3.4",
     "jsonlint": "^1.6.3",
