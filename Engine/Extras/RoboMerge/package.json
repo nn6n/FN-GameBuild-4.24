@@ -15,7 +15,7 @@
   "dependencies": {
     "@types/ldapjs": "^1.0.3",
     "@types/node": "^10.3.2",
-    "@types/nodemailer": "^4.3.4",
+    "@types/nodemailer": "^4.6.8",
     "jsonlint": "^1.6.3",
     "ldapauth-fork": "^4.0.2",
     "nodemailer": "^4.6.3"
