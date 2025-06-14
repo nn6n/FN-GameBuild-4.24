@@ -17,7 +17,7 @@
     "@types/node": "^10.3.2",
     "@types/nodemailer": "^4.3.4",
     "jsonlint": "^1.6.3",
-    "ldapauth-fork": "^4.0.2",
+    "ldapauth-fork": "^6.0.0",
     "nodemailer": "^4.6.3"
   }
 }
